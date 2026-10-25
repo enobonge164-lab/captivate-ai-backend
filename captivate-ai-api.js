@@ -1239,7 +1239,8 @@ async function generateGamingAssistant(env, body) {
    WEBSITE BUILDER ASSISTANT v7.7
    Standalone HTML + structured backend
 ========================================================= */
-//Replace the supplied Website Builder Assistant section with this file's contents.
+/*
+Replace the supplied Website Builder Assistant section with this file's contents.
 Dependencies intentionally reused from your existing Worker:
 cleanText, runAI, NEW_TOOL_PROMPTS, MODELS, API_VERSION, extractText, cleanResult.
 This is the dedicated Website Builder section, NOT the entire main Worker.
